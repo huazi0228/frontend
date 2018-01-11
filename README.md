@@ -1,3 +1,3 @@
 # blog
 
--[文章列表](https://github.com/icatholiccloud/blog/issues)
+[文章列表](https://github.com/icatholiccloud/blog/issues)
